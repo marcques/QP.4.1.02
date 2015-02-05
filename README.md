@@ -3,5 +3,5 @@ Internal check
 
 Sistem menedzmenta kvalitetom
 
-Svrha ovog dokumenta je da definise postupak sprovodjenja internih provera uspostavljenih i primenjenih Integrisanih sistema menadzmenta u vasoj organizaciji.
-aaa
+Svrha ovog dokumenta je da definise postupak sprovodjenja internih provera uspostavljenih i primenjenih Integrisanih sistema menadzmenta u vasoj organizaciji, odnosno Sistema menadzmenta kvalitetom (QMS),
+Sistema upravljanja zivotne sredine
